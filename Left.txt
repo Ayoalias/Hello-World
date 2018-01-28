@@ -1,2 +1,3 @@
 var = getElementByPath("chase").log
 new
+old
