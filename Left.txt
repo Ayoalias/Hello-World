@@ -1,3 +1,4 @@
-var = getElementByPath("chase").log
+nvar = getElementByPath("chase").log
 new
 old
+bg
