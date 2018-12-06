@@ -1,0 +1,8 @@
+nvar = getElementByPath("chase").log
+new
+old
+bg
+drive me home to my family
+Baby arrived
+Hi
+Daddy is good
